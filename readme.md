@@ -1,0 +1,2 @@
+
+open file start.bat
