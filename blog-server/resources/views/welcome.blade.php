@@ -81,9 +81,12 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Maribel te quiero mucho
+                    <br>
+                    Muchote ejejejejej
+                   
                 </div>
-
+                <img src=https://lamenteesmaravillosa.com/wp-content/uploads/2015/05/amor2.jpg" width="200" height="300" alt="">
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
                     <a href="https://laracasts.com">Laracasts</a>
