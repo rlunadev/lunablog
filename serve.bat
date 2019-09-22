@@ -1,5 +1,5 @@
 @echo off
-title Luna Blog
+title Luna Blog SERVER
 echo ############ Start Server Laravel ###########
 cd "blog-server"
 php artisan serve
